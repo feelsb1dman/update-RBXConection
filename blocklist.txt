@@ -1,3 +1,4 @@
 # RBX Conect blocklist - one HWID(16 hex) or full RBX-key per line to BAN; prefix REVOKE: to revoke; # = comment
 
-4103CC2EA306F224
+
+REVOKE:4103CC2EA306F224
